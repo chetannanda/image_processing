@@ -17,4 +17,4 @@ http://journals.sagepub.com/doi/pdf/10.5772/56884
 A slider is provided to adjust the threshold to see its effect.
 
 ## Example
-![alt text] (https://github.com/chetannanda/image_processing/sky_detect/Example.png)
+![alt text] (https://github.com/chetannanda/image_processing/blob/master/sky_detect/Example.png)
